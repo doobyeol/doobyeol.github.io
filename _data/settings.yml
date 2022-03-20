@@ -53,7 +53,7 @@ social:
 
 # About Section
 blurb:
-  개발을 할 때 푹 빠져드는 재미와 못하는 것을 되게 하고자 하는 호기심. 그리고 해냈을 때의 성취감은 말로 표현할 수 없는 저의 원동력입니다. 성실함과 꾸준함, 끈기로 늘 성장하는 개발자가 되고자 합니다.
+  개발을 할 때 푹 빠져드는 재미와 못하는 것을 되게 하고자 하는 호기심. 그리고 해냈을 때의 성취감은 말로 표현할 수 없는 저의 원동력입니다. 성실함과 꾸준함, 끈기로 늘 성장하는 개발자가 되겠습니다.
 
 blurb-btn-link: '/about'
 blurb-btn-name: know more
@@ -96,10 +96,10 @@ team:
 
 skills-title: Skills
 skills:
-- {name: Web Design, color: '#fdb157', value: '90%'}
-- {name: Logo Design, color: '#9473e6', value: '60%'}
-- {name: After Effects, color: '#bdecf6', value: '80%'}
-- {name: Web App, color: '#ffbcaa', value: '70%'}
+- {name: JavaScript, color: '#fdb157', value: '70%'}
+- {name: Java, color: '#9473e6', value: '40%'}
+- {name: SQL, color: '#bdecf6', value: '60%'}
+- {name: HTML&CSS, color: '#ffbcaa', value: '90%'}
 
 
 #-------------------------------
@@ -107,9 +107,9 @@ skills:
 
 experience-title: Experience
 experience:
-- {name: Junior UX Designer, icon: 'icon-1.png', date: 'Jan 2007 - Feb 2009', organization: 'WEBEX'}
-- {name: UX & UI Designer, icon: 'icon-2.png', date: 'Mar 2009 - Aug 2014', organization: 'AUGMEDIX'}
-- {name: Senior UI Designer, icon: 'icon-3.png', date: 'Sep 2014 - Present', organization: 'THEMEFISHER'}
+- {name: Web & App Publisher, icon: 'icon-1.png', date: '2018.10 - 2020.02', organization: 'Soltworks'}
+- {name: Web Publisher, icon: 'icon-2.png', date: '2020.03 - 2021.01', organization: 'Freelancer'}
+- {name: Web Developer, icon: 'icon-3.png', date: '2021.07 - 재직중', organization: 'SPH'}
 
 
 #-------------------------------
@@ -117,33 +117,33 @@ experience:
 
 education-title: Education
 education:
-- {name: Marters in UX Design, date: '2006', organization: 'Masassusets Institute of Technology'}
-- {name: Honours in Fine Arts, date: '2004', organization: 'Harvard University'}
-- {name: Higher Secondary Certificat, date: '2000', organization: 'Cardiff School'}
-- {name: Secondary School Certificate, date: '1998', organization: 'Cardiff School'}
+- {name: 디지털컨버전스 딥러닝 웹 개발자 양성과정, date: '2021', organization: '비트캠프'}
+- {name: UI&UX디자인&퍼블리싱, date: '2018', organization: '그린컴퓨터아트학원'}
+- {name: 미디어 디자인, date: '2018', organization: '용인대학교'}
+- {name: 영상 디자인, date: '2014', organization: '서울디자인고등학교'}
 
 
 #-------------------------------
 # Services Section
 
-services-title: Services
+services-title: Tech Stack
 services:
 - {
-    name: UI Design,
-    icon: ti-palette,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+    name: BackEnd,
+    icon: ti-server,
+    description: 'Java, Node.js, Linux, MySQL, Oracle, PostgreSQL',
     active: # Add true to select section
   }
 - {
-    name: UX Design,
-    icon: ti-vector,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+    name: FrontEnd,
+    icon: ti-layers,
+    description: 'HTML5, CSS3, jQuery, JavaScript, Vue, Node.js',
     active: true # Add true to select section
   }
 - {
-    name: Interaction Design,
-    icon: ti-panel,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+    name: Etc,
+    icon: ti-world,
+    description: 'Git, Github',
     active: # Add true to select section
   }
 

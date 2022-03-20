@@ -1,18 +1,9 @@
 ---
 layout: about
 title: About Me
-author: Johnathan Smith
+author: Doobyeol Kim
 image: assets/images/about/author.jpg
-signature: assets/images/about/signature.png
+# signature: assets/images/about/signature.png
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat.
-
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident.
-
-Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.
+개발을 할 때 푹 빠져드는 재미와 못하는 것을 되게 하고자 하는 호기심. 그리고 해냈을 때의 성취감은 말로 표현할 수 없는 저의 원동력입니다. 성실함과 꾸준함, 끈기로 늘 성장하는 개발자가 되겠습니다.
