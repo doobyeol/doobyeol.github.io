@@ -8,7 +8,7 @@ description: Doobyeol Portfolio
 email: doobyeol@gmail.com
 phone: 010 5573 6409
 address: Seoul, Korea
-copyright: Copyright &copy; 2022 Designed & Developed by [Doobyeol](https://github.com/doobyeol)
+copyright: Copyright &copy; 2022 [Doobyeol](https://github.com/doobyeol) ALL RIGHTS RESERVED.
 
 menu:
 - {name: About, link: '/about'}
@@ -53,7 +53,7 @@ social:
 
 # About Section
 blurb:
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  개발을 할 때 푹 빠져드는 재미와 못하는 것을 되게 하고자 하는 호기심. 그리고 해냈을 때의 성취감은 말로 표현할 수 없는 저의 원동력입니다. 성실함과 꾸준함, 끈기로 늘 성장하는 개발자가 되고자 합니다.
 
 blurb-btn-link: '/about'
 blurb-btn-name: know more
