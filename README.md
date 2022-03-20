@@ -5,4 +5,4 @@
 	<img src="https://user-images.githubusercontent.com/37659754/58154256-00627500-7c93-11e9-90c1-c145cb396902.gif"  width="100%" alt="kross portfolio template by themefisher">
 </div>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdoobyeol%2Fhit-counter&count_bg=%23CACED5&title_bg=%2335343D&icon=github.svg&icon_color=%23FFFFFF&title=Today&edge_flat=false)](https://github.com/doobyeol/doobyeol.github.io)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdoobyeol%2Fdoobyeol.github.io&count_bg=%23CACED5&title_bg=%2335343D&icon=github.svg&icon_color=%23FFFFFF&title=Today&edge_flat=false)](https://github.com/doobyeol/doobyeol.github.io)
