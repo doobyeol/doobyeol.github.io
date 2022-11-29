@@ -1,0 +1,1 @@
+import{_ as e,o,a as t,b as c}from"./index.16b2b963.js";const n={},s=c("p",null,"\uC900\uBE44\uC911",-1),a=[s];function _(r,l){return o(),t("div",null,a)}const f=e(n,[["render",_]]);export{f as default};
