@@ -1,0 +1,154 @@
+import{d as p,o as e,c as A,a as P,_,b as x,r as g,s as m,u as i,e as B,t as n,f as v,g as d,p as T,h as $,i as k,F as y,j as S,n as J,k as f,l as h,m as j}from"./index.31a90694.js";const L={class:"profileWrap"},M=P('<div class="content" data-v-62195d5e><div class="cover" data-v-62195d5e></div><div class="profile" data-v-62195d5e><div class="pic" data-v-62195d5e></div></div><div class="button" data-v-62195d5e><a href="https://github.com/doobyeol" target="_blink" data-v-62195d5e></a></div></div><ul class="txt" data-v-62195d5e><li class="name" data-v-62195d5e>\uB450\uBCC4</li><li data-v-62195d5e>Web Developer</li><li class="flex gray" data-v-62195d5e><span class="pin" data-v-62195d5e></span> Seoul</li><li class="flex gray" data-v-62195d5e><a href="mailto:doobyeol@gmail.com" data-v-62195d5e><span class="mail" data-v-62195d5e></span> doobyeol@gmail.com </a></li><li class="flex" data-v-62195d5e><a href="https://velog.io/@doobyeol" target="_blink" class="velog icon" title="velog" data-v-62195d5e></a><a href="https://github.com/doobyeol" target="_blink" class="github icon" title="github" data-v-62195d5e></a></li></ul>',2),I=[M],V=p({__name:"Profile",setup(u){return(t,C)=>(e(),A("div",L,I))}});const O=_(V,[["__scopeId","data-v-62195d5e"]]),F=x("timelineStore",()=>{const u=g({date:"20221124",type:"fix",title:"Skills and Languages",text:"",link:"",imgPath:""}),t=g([{date:"20221124",type:"career",title:`\u321C\uC5D0\uC2A4\uD53C\uC5D0\uC774\uCE58 (\uD074\uB77C\uC6B0\uB4DC\uD300 \uC0AC\uC6D0)
+                    2021.07 - \uD604\uC7AC`,text:`
+            1. GS \uCE7C\uD14D\uC2A4 \uC0C1\uAD8C\uBD84\uC11D WEB (2022.08 ~ )
+            - \uAE30\uC220\uC2A4\uD0DD : Vue, javascript, Java, Spring Boot, postgreSQL
+            - Google Map \uAE30\uBC18 \uC11C\uBE44\uC2A4 \uAC1C\uBC1C
+            - Google Map UI \uAD00\uB828 \uB354\uBE14 \uBC84\uD37C\uB9C1\uC744 \uC0AC\uC6A9\uD55C \uC131\uB2A5 \uAC1C\uC120
+            - \uAD00\uB9AC\uC790 \uD398\uC774\uC9C0 \uAC1C\uBC1C
+            - Azure OAuth SSO \uAC1C\uBC1C
+            - \uD310\uB9E4\uC2E4\uC801/\uC810\uB450\uAC00 \uD1B5\uACC4 \uCFFC\uB9AC \uC791\uC131
+            
+
+            2. Kagos \uC790\uC0B0\uAD00\uB9AC \uC194\uB8E8\uC158 WEB ( 2022.01 ~ 2022.07 )
+            - \uAE30\uC220\uC2A4\uD0DD : Vue, Javascript, Java, Spring Boot, postgreSQL
+            - Spring Security + JWT \uB85C\uADF8\uC778 \uAC1C\uBC1C
+            - Okta SAML SSO \uAC1C\uBC1C
+            - Tableau \uD1A0\uD070\uAE30\uBC18 SSO \uB85C\uADF8\uC778, \uD654\uBA74 \uC5F0\uB3D9 \uAC1C\uBC1C
+            - Vue Slot\uC744 \uC0AC\uC6A9\uD55C \uACF5\uD1B5 \uB808\uC774\uC544\uC6C3 \uAC1C\uBC1C
+            - \uACF5\uD1B5 Vue \uCEF4\uD3EC\uB10C\uD2B8 \uAC1C\uBC1C
+            - Frontend \uACF5\uD1B5 API \uBAA8\uB4C8 \uAC1C\uBC1C
+            
+
+            3. LG \uD558\uC774\uCF00\uC5B4 \uC0C1\uD669\uC2E4 \uC2DC\uC2A4\uD15C WEB (2021.08 ~ 2021.12)
+            - \uAE30\uC220\uC2A4\uD0DD : JSP, jQuery, Java, Spring, postgreSQL
+            - Tmap \uAE30\uBC18 \uC2E4\uC2DC\uAC04 \uBAA8\uB2C8\uD130\uB9C1 \uC54C\uB9BC \uC11C\uBE44\uC2A4 \uAC1C\uBC1C
+            `,link:"",imgPath:""},{date:"20221124",type:"career",title:`\u321C\uC5D0\uC774\uD2B8\uC6D0 (\uC5F0\uAD6C\uAC1C\uBC1C\uD300 \uC0AC\uC6D0)
+                    2018.10 - 2020.02 (1\uB144 5\uAC1C\uC6D4)`,text:`
+            1. \uC548\uC804\uBCF4\uAC74\uACF5\uB2E8 \uC704\uAE30\uD0C8\uCD9C\uC548\uC804\uC810\uAC80 APP (2018.03 ~ 2019.03)
+            - \uAE30\uC220\uC2A4\uD0DD : HTML, CSS, Javascript, JSP
+            - UI&UX \uB514\uC790\uC778 & \uD37C\uBE14\uB9AC\uC2F1
+            
+
+            2. \uC548\uC804\uBCF4\uAC74\uACF5\uB2E8 \uD604\uC7A5\uBC30\uC1A1\uC11C\uBE44\uC2A4 WEB (2019.03 ~ 2019.07)
+            - \uAE30\uC220\uC2A4\uD0DD : HTML, CSS, Javascript, JSP
+            - UI&UX \uB514\uC790\uC778 & \uD37C\uBE14\uB9AC\uC2F1
+            
+
+            3. \uC0BC\uC131\uC804\uC790 \uC911\uC7A5\uBE44 APP / CMS WEB (2019.08 ~ 2019.12)
+            - \uAE30\uC220\uC2A4\uD0DD : HTML, CSS, Javascript, JSP
+            - UI&UX \uB514\uC790\uC778 & \uD37C\uBE14\uB9AC\uC2F1
+            
+
+            4. \uC194\uD2B8\uC6CD\uC2A4 \uD504\uB85C\uC81D\uD2B8 \uB9E4\uB2C8\uC9C0\uBA3C\uD2B8 WEB (2019.10 ~ 2020.02)
+            - \uAE30\uC220\uC2A4\uD0DD : HTML, CSS, Javascript, JSP
+            - UI&UX \uB514\uC790\uC778 & \uD37C\uBE14\uB9AC\uC2F1
+            
+
+            5. \uC548\uC804\uBCF4\uAC74\uACF5\uB2E8 \uC704\uAE30\uD0C8\uCD9C\uC548\uC804\uBCF4\uAC74 APP (2019.12 ~ 2020.02)
+            - \uAE30\uC220\uC2A4\uD0DD : HTML, CSS, Javascript, JSP
+            - UI&UX \uB514\uC790\uC778 & \uD37C\uBE14\uB9AC\uC2F1`,link:"",imgPath:""},{date:"20221124",title:"",text:"Test !",imgPath:"",link:"",type:""},{date:"20221210",type:"introduction",title:"\uC18C\uAC1C\uAE00",text:`\uB354 \uB098\uC740 \uC11C\uBE44\uC2A4\uB97C \uC704\uD574 \uB354 \uB098\uC740 \uAC1C\uBC1C\uC790\uAC00 \uB418\uACE0\uC790 \uB178\uB825\uD569\uB2C8\uB2E4.
+                    \uC131\uC7A5\uD558\uB294 \uC7AC\uBBF8\uB97C \uC990\uAE41\uB2C8\uB2E4.`,link:"",imgPath:""},{date:"20221211",type:"introduction",title:"\uAE30\uB85D\uC740 \uACE7 \uC790\uC0B0\uC774 \uB41C\uB2E4!",text:`\uC785\uC0AC \uD6C4 \uAFB8\uC900\uD788 \uC5C5\uBB34\uC77C\uC9C0\uB97C \uC791\uC131\uD588\uB2E4. \uD559\uC6D0 \uB2E4\uB2D0\uB54C\uC5D0\uB3C4 \uADF8\uB0A0 \uADF8\uB0A0 \uBC30\uC6B4\uAC78 \uBE14\uB85C\uADF8\uC5D0 \uC815\uB9AC\uD558\uB358 \uC2B5\uAD00\uC774 \uC788\uC5C8\uAE30 \uB54C\uBB38\uC5D0 \uC5C5\uBB34\uC77C\uC9C0\uB3C4 \uC790\uC5F0\uC2A4\uB808 \uC4F0\uAC8C \uB410\uB2E4. 
+            \uC8FC\uB85C \uB9E1\uC740 \uC5C5\uBB34\uC758 \uAE30\uB2A5 \uB2E8\uC704\uB85C \uC791\uC131\uD558\uACE0 \uD574\uB2F9 \uAE30\uB2A5\uC744 \uAC1C\uBC1C\uD558\uBA74\uC11C \uC0DD\uAC01\uD55C \uD50C\uB85C\uC6B0, \uCC38\uACE0\uD55C \uB808\uD37C\uB7F0\uC2A4, \uC911\uC694\uD55C \uAE30\uB2A5 \uC124\uBA85, \uAC1C\uBC1C\uD558\uBA74\uC11C \uACAA\uC740 \uC5B4\uB824\uC6B4 \uC810\uACFC \uADF8\uAC78 \uC5B4\uB5BB\uAC8C \uD574\uACB0\uD588\uB294\uC9C0\uC5D0 \uB300\uD55C \uACFC\uC815\uC744 \uAE30\uB85D \uD55C\uB2E4. 
+            \uC774\uB807\uAC8C \uC791\uC131\uD574\uB450\uBA74 \uB098\uC911\uC5D0 \uB0B4\uAC00 \uAC1C\uBC1C\uD588\uB358 \uAE30\uB2A5\uB4E4\uC744 \uB2E4\uC2DC \uBD10\uC57C\uD560 \uB54C \uC5C5\uBB34\uC77C\uC9C0\uB97C \uCC38\uACE0\uD558\uC5EC \uAE08\uBC29 \uD30C\uC545\uD558\uAE30\uAC00 \uC27D\uACE0 \uC911\uC694\uD55C \uAE30\uB2A5\uB4E4\uC744 \uC78A\uC9C0 \uC54A\uACE0 \uC7AC\uC0AC\uC6A9 \uD560 \uC218 \uC788\uB2E4.`,link:"",imgPath:"/src/assets/img/introduction/introduction_01.png"},{date:"20221211",type:"introduction",title:"TIL & \uD68C\uACE0\uB85D \uC791\uC131\uD558\uAE30",text:"\uAC1C\uBC1C\uC790\uB294 \uC8FD\uAE30\uC804\uAE4C\uC9C0\uB3C4 \uACF5\uBD80\uB97C \uD574\uC57C \uD55C\uB2E4\uACE0 \uD558\uB358\uAC00.. \uADF8\uB9CC\uD07C \uAC1C\uBC1C \uD2B8\uB80C\uB4DC\uB97C \uB193\uCCD0\uC120 \uC548\uB418\uB294 \uAC83\uB3C4 \uC788\uB2E4. \uB098\uB294 \uBB54\uAC00 \uACF5\uBD80\uD558\uACE0 \uAE68\uB2EC\uC740\uAC8C \uC788\uC744\uB54C \uB9C8\uB2E4 \uD68C\uACE0\uB85D\uC744 \uC791\uC131\uD588\uB2E4. \uD68C\uACE0\uB85D\uC744 \uC791\uC131\uD558\uBA74 \uC88B\uC740 \uC810\uC740 \uB0B4\uAC00 \uC774\uB9CC\uD07C \uACF5\uBD80\uD588\uAD6C\uB098, \uB0B4\uAC00 \uC774\uB9CC\uD07C \uC131\uC7A5\uD588\uAD6C\uB098\uB97C \uBCFC \uC218 \uC788\uACE0 \uC131\uCDE8\uAC10 \uB355\uBD84\uC5D0 \uB354 \uC5F4\uC2EC\uD788 \uD558\uAC8C \uB41C\uB2E4\uB294 \uAC83!",link:"https://velog.io/@doobyeol/series",imgPath:"/src/assets/img/introduction/introduction_02.png"},{date:"20221211",type:"introduction",title:"\uC544\uBB34\uB9AC \uAC80\uC0C9\uD574\uB3C4 \uC548\uB098\uC624\uB294 \uC5D0\uB7EC\uB4E4\uC740 \uAF2D \uAE30\uB85D\uC744 \uD574\uB450\uC5B4\uC57C \uD55C\uB2E4. \uADF8\uB9AC\uACE0 \uC790\uC8FC \uACAA\uB294 \uC5D0\uB7EC\uB4E4\uB3C4 \uB9C8\uCC2C\uAC00\uC9C0!",text:"\uC5D0\uB7EC\uC758 \uBC1C\uC0DD \uC6D0\uC778\uACFC \uD574\uACB0 \uBC29\uBC95\uC744 \uAE30\uB85D\uD558\uBA74 \uB098\uC911\uC5D0 \uAC19\uC740 \uC5D0\uB7EC\uB97C \uACAA\uC5C8\uC744 \uB54C \uBC14\uB85C \uD574\uACB0\uBC29\uBC95\uC740 \uC548\uB5A0\uC624\uB974\uB354\uB77C\uB3C4 \uC544! \uC774\uAC70 \uACAA\uC5B4\uBCF8 \uC5D0\uB7EC\uC57C! \uD558\uBA74\uC11C \uC774\uC804\uC5D0 \uAE30\uB85D\uD574\uB454 \uBE14\uB85C\uADF8\uC640 \uB178\uC158\uC744 \uCC38\uACE0\uD558\uC5EC \uAE08\uBC29 \uD574\uACB0\uD560 \uC218 \uC788\uC5C8\uB2E4.",link:"https://velog.io/@doobyeol?tag=error",imgPath:"/src/assets/img/introduction/introduction_03.png"},{date:"20221211",type:"introduction",title:"\uACB0\uACFC\uBCF4\uB2E4\uB294 \uACBD\uD5D8\uC758 \uAC00\uCE58\uB97C \uC544\uB294 \uC0AC\uB78C\uC774 \uB418\uACE0 \uC2F6\uB2E4!",text:`\uC774\uC720\uC5C6\uC774 \uB098\uB97C \uC88B\uC544\uD574\uC8FC\uACE0 \uC751\uC6D0\uD574\uC8FC\uB294 \uAC00\uC871, \uCE5C\uAD6C, \uB3D9\uB8CC\uB4E4\uC5D0\uAC8C \uBB34\uC5C7\uC774\uB4E0 \uC798 \uD574\uB0B4\uB294 \uBAA8\uC2B5\uC73C\uB85C \uBCF4\uB2F5\uD558\uACE0 \uC2F6\uC5C8\uB2E4. \uB098\uB3C4 \uADF8\uB4E4\uC5D0\uAC8C \uC88B\uC740 \uC601\uD5A5\uC744 \uC8FC\uACE0 \uC2F6\uC5C8\uB358 \uB9C8\uC74C\uC774 \uCEF8\uB2E4.
+            \uD558\uC9C0\uB9CC \uC810\uC810 \uC644\uBCBD\uC744 \uCD94\uAD6C\uD558\uAC8C \uB418\uBA74\uC11C, \uC2A4\uC2A4\uB85C \uB9CE\uC740 \uBD80\uB2F4\uC744 \uC9C0\uAC8C \uD588\uB358 \uAC83 \uAC19\uB2E4.
+            \uADF8\uB798\uC11C \uC774\uC81C\uB294 \uADF8\uB7F0 \uC695\uC2EC \uBAA8\uB450 \uB0B4\uB824\uB193\uACE0! \uACB0\uACFC\uBCF4\uB2E4 \uC911\uC694\uD55C \uAC83\uC740 \uC5B8\uC81C\uB098 \uACBD\uD5D8\uC774\uB77C\uB294 \uAC83\uC744 \uBBFF\uAE30 \uC2DC\uC791\uD588\uB2E4.
+            \uACBD\uD5D8\uC744 \uB450\uB824\uC6CC\uD558\uC9C0 \uC54A\uACE0 \uC990\uAE34\uB2E4\uBA74 \uBB34\uC5C7\uC774\uB4E0 \uD574\uB0BC \uC218 \uC788\uB2E4.
+            \uADF8\uB9AC\uACE0 \uADF8\uB7F0 \uAE0D\uC815\uC801\uC778 \uC5D0\uB108\uC9C0\uB4E4\uC774 \uB098\uB97C \uBBFF\uC5B4\uC8FC\uACE0 \uC9C0\uCF1C\uBD10\uC8FC\uB294 \uC774\uB4E4\uC5D0\uAC8C\uB3C4 \uBD84\uBA85 \uC88B\uC740 \uC601\uD5A5\uC744 \uC904 \uC218 \uC788\uC744 \uAC83\uC774\uB77C \uBBFF\uB294\uB2E4.
+            \uADF8\uB798\uC11C \uB098\uB294 \uACB0\uACFC\uBCF4\uB2E4 \uACBD\uD5D8\uC758 \uAC00\uCE58\uB97C \uC544\uB294 \uC0AC\uB78C\uC774 \uB418\uACE0\uC790 \uD55C\uB2E4!`,link:"",imgPath:"/src/assets/img/introduction/introduction_04.png"},{date:"20221211",type:"introduction",title:"\uC11C\uB978\uC0B4 \uC804\uC5D0 \uD480\uC2A4\uD0DD \uAC1C\uBC1C\uC790\uAC00 \uB418\uC790!",text:`\uCC98\uC74C \uAC1C\uBC1C\uC790\uAC00 \uB418\uACA0\uB2E4\uACE0 \uB2E4\uC9D0\uD588\uC744 \uB54C \uC11C\uB978 \uC804\uC5D0 \uD480\uC2A4\uD0DD \uAC1C\uBC1C\uC790\uAC00 \uB418\uC790\uB294 \uB2F9\uCC2C \uD3EC\uBD80\uB97C \uAC00\uC84C\uC5C8\uB294\uB370 (\u314B\u314B) \uD480\uC2A4\uD0DD \uAC1C\uBC1C\uC790.. \uADF8\uAC70 \uADF8\uB807\uAC8C \uC27D\uAC8C \uB418\uB294\uAC8C \uC544\uB2C8\uB354\uB77C.. \uADF8\uB798\uC11C \uCC28\uADFC\uCC28\uADFC \uB2E8\uACC4\uB97C \uBC1F\uC544 \uB098\uC544\uAC00\uB294 \uC911\uC774\uB2E4. 
+            \uD37C\uBE14\uB9AC\uC154 \uCD9C\uC2E0\uC774\uB77C \uADF8\uB7F0\uC9C0 \uB0B4\uAC8C \uD504\uB860\uD2B8 \uAC1C\uBC1C\uC790 \uD560\uAC70\uB0D0\uACE0 \uBB3C\uC5B4\uBCF4\uB294 \uBD84\uB4E4\uC774 \uACC4\uC168\uB294\uB370 \uC0AC\uC2E4.. \uD504\uB860\uD2B8\uBCF4\uB2E4 \uBC31\uC5D4\uB4DC\uAC00 \uC880 \uB354 \uC990\uAC81\uB2E4. 
+            \uD654\uBA74\uC744 \uB3D9\uC801\uC73C\uB85C \uAC1C\uBC1C\uD558\uB294 \uD504\uB860\uD2B8\uB294 \uB208\uC73C\uB85C \uBCF4\uB294 \uC7AC\uBBF8\uAC00 \uC788\uC9C0\uB9CC, \uADF8\uC5D0 \uBE44\uD574 \uBC31\uC5D4\uB4DC\uB294 \uCD94\uC0C1\uC801\uC774\uACE0 \uC5B4\uB835\uB2E4\uB294 \uB290\uB08C\uC774 \uAC15\uD588\uB2E4.
+            \uADF8\uB798\uC11C \uBC31\uC5D4\uB4DC \uACF5\uBD80\uB97C \uC9D1\uC911\uC801\uC73C\uB85C \uC2DC\uC791\uD588\uB294\uB370, \uCD94\uC0C1\uC801\uC774\uB77C\uACE0 \uB290\uAF07\uB358 \uAC1C\uB150\uB4E4\uC774 \uB208\uC5D0 \uBCF4\uC774\uAE30 \uC2DC\uC791\uD588\uB2E4. \uC810\uC810 \uB354 \uC54C\uC544\uAC08\uC218\uB85D, \uC5B4\uB835\uB2E4\uACE0 \uB290\uAF08\uB358 \uBCBD\uC774 \uD5C8\uBB3C\uC5B4\uC9C0\uACE0 \uC5BB\uAC8C \uB418\uB294 \uC131\uCDE8\uAC10\uB4E4\uC774 \uC815\uB9D0 \uC9DC\uB9BF\uD55C \uAC83 \uAC19\uB2E4..!`,link:"",imgPath:"/src/assets/img/introduction/introduction_05.png"},{date:"20221211",type:"introduction",title:"Hello, New World!",text:`\uC138\uACC4\uC120\uBC30 \uC798 \uC9C0\uB0B4\uC2DC\uB098\uC694?.. \uC544\uD504\uB9AC\uCE74\uB294 \uB365\uACE0 \uBAA8\uAE30\uB3C4 \uB9CE\uC8E0?.. \uAC74\uAC15 \uC798 \uCC59\uAE30\uC2DC\uAD6C\uC694..
+            \uC138\uACC4\uC120\uBC30 \uC800.. \uAC1C\uBC1C\uC790\uAC00 \uB418\uC5C8\uC5B4\uC694.
+            \uC120\uBC30\uAC00 \uC606\uC5D0\uC11C \uBC31\uC5D4\uB4DC\uB294 \uB9D0\uC774\uC57C..\uD504\uB860\uD2B8\uB294 \uB9D0\uC774\uC57C..\uD558\uBA70 \uC54C\uB824\uC8FC\uC168\uC744\uB54C \uC815\uB9D0 \uC7AC\uBC0C\uC5C8\uB294\uB370,
+            \uC800 \uAC1C\uBC1C\uACF5\uBD80 \uC5F4\uC2EC\uD788 \uD574\uC11C \uC774\uC81C \uC9C4\uC9DC \uAC1C\uBC1C\uC790\uAC00 \uB418\uC5C8\uC5B4\uC694.
+            \uC800\uC5D0\uAC8C \uC0C8\uB86D\uACE0 \uC7AC\uBC0C\uB294 \uC138\uC0C1\uC744 \uC54C\uB824\uC8FC\uC154\uC11C \uAC10\uC0AC\uD569\uB2C8\uB2E4. \uD56D\uC0C1 \uB9C8\uC74C \uC18D\uC5D0 \uC774 \uC740\uD61C\uC640 \uAC10\uC0AC\uD568\uC774 \uB465\uB465 \uB5A0\uB2E4\uB140\uC694.
+            \uC815\uB9D0 \uC815\uB9D0 \uAC10\uC0AC\uB4DC\uB9AC\uACE0, \uB298 \uD589\uBCF5\uD558\uC2DC\uAE38 \uBC14\uB78D\uB2C8\uB2E4! \u{1F33B}`,link:"",imgPath:""},{date:"20221211",type:"project",title:`[ Portfolio ] \uAC1C\uC778 \uD3EC\uD2B8\uD3F4\uB9AC\uC624 \uC0AC\uC774\uD2B8
+                    2022.11 - 2022.12 (1\uAC1C\uC6D4)`,text:`
+                \uAE30\uC220\uC2A4\uD0DD : 
+                - FRONT : Vite + Vue3, Typescript, CSS
+
+                Github : https://github.com/doobyeol/portfolio
+            `,link:"https://doobyeol.github.io/",imgPath:"/src/assets/img/project/portfolio.png"},{date:"20221211",type:"project",title:`[ LoL Ground ] LoL Members \uC804\uC801 \uAC04\uD3B8 \uC870\uD68C
+                    2022.11 (1\uAC1C\uC6D4)`,text:`
+                \uD1A0\uC774\uD504\uB85C\uC81D\uD2B8 Front Devlop
+
+                \uAE30\uC220\uC2A4\uD0DD : 
+                - FRONT : Vite + Vue3, Vuetify, Javascript
+
+                Github : https://github.com/doobyeol/lol-ground/tree/doobyeol
+            `,link:"https://returntrue.tk/",imgPath:"/src/assets/img/project/lol_ground.png"},{date:"20221211",type:"project",title:`[ \uD589\uBCF5\uBC15\uBB3C\uAD00 ] \uD589\uBCF5\uC744 \uC804\uC2DC\uD558\uB294 \uD589\uBCF5\uBC15\uBB3C\uAD00 DEMO
+                    2022.07 - 2022.10 (3\uAC1C\uC6D4)`,text:`
+                \uD1A0\uC774\uD504\uB85C\uC81D\uD2B8
+
+                \uAE30\uC220\uC2A4\uD0DD : 
+                - BACK : Spring, JAVA, My Batis, Swagger, Spring Security, JWT, RESTful API, Spring Cloud Config, AWS EC2
+                - FRONT : Vue2, Vuetify, Javascript
+
+                2023\uB144 JPA, Vue3, Typescript\uB85C \uB9C8\uC774\uADF8\uB808\uC774\uC158 \uC608\uC815
+
+            `,link:"https://github.com/doobyeol/happiness-museum",imgPath:"/src/assets/img/project/happiness_museum.png"},{date:"20221211",type:"project",title:`[ \uC11C\uC6B8\uBA54\uC774\uD2B8 ] \uC2E4\uC2DC\uAC04 \uCC44\uD305 \uC6F9 \uC11C\uBE44\uC2A4
+                    2021.04 - 2021.05 (1\uAC1C\uC6D4)`,text:`
+                    \uBE44\uD2B8\uCEA0\uD504 \uC6F9\uAC1C\uBC1C\uC790 \uC591\uC131\uACFC\uC815 \uD30C\uC774\uB110 \uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8
+
+                    1. \uAE30\uC220\uC2A4\uD0DD : 
+                    - BACK : Node.js, Oracle, 
+                    - FRONT : EJS, HTML5 , CSS3, JavaScript
+
+                    2. \uAD6C\uD604 \uAE30\uB2A5
+                    - Node \uC11C\uBC84 \uAD6C\uCD95 \uBC0F DB\uC5F0\uB3D9
+                    - \uC720\uC800\uAC04\uC758 \uB9E4\uCE6D\uC774 \uB418\uC5C8\uC744\uB54C \uCC44\uD305 \uD65C\uC131\uD654
+                    - \uC0C8\uB85C\uC6B4 \uBA54\uC138\uC9C0 \uC218 \uC2DC\uAC01\uC801 \uC54C\uB9BC
+                    - \uCD5C\uC2E0 \uBA54\uC138\uC9C0 \uC2E4\uC2DC\uAC04 \uBBF8\uB9AC\uBCF4\uAE30
+                    - \uBA54\uC138\uC9C0 \uB3C4\uCC29 \uC2DC\uAC04\uC744 \uD604\uC7AC \uC2DC\uAC01 \uAE30\uC900\uC73C\uB85C \uBC29\uAE08\uC804, n\uBD84\uC804, n\uC2DC\uAC04\uC804, n\uC77C\uC804...\uC73C\uB85C \uD45C\uAE30
+                    - \uC2E0\uACE0\uD558\uAE30 \uAE30\uB2A5\uC73C\uB85C \uAD00\uB9AC\uC790\uAC00 \uCC44\uD305 \uB0B4\uC6A9 \uBAA8\uB2C8\uD130\uB9C1
+                    - \uCC44\uD305\uBC29 \uB098\uAC00\uAE30
+
+                    Github : https://github.com/doobyeol/SeoulMateChat
+                    \uAE30\uB2A5\uC2DC\uD604 : https://www.youtube.com/watch?v=pWZ4pJBUc0c
+                    \uD504\uB85C\uC81D\uD2B8 \uD6C4\uAE30 : https://blog.naver.com/doobyeol
+
+            `,link:"https://github.com/doobyeol/SeoulMate",imgPath:"/src/assets/img/project/seoulmate_02.png"},{date:"20221211",type:"project",title:`[ \uC11C\uC6B8\uBA54\uC774\uD2B8 ] \uC250\uC5B4\uD558\uC6B0\uC2A4 & \uD558\uC6B0\uC2A4\uBA54\uC774\uD2B8 \uB9E4\uCE6D \uD50C\uB7AB\uD3FC
+                    2021.04 - 2021.05 (1\uAC1C\uC6D4)`,text:`
+                    \uBE44\uD2B8\uCEA0\uD504 \uC6F9\uAC1C\uBC1C\uC790 \uC591\uC131\uACFC\uC815 \uD30C\uC774\uB110 \uD300\uD504\uB85C\uC81D\uD2B8
+
+                    1. \uAE30\uC220\uC2A4\uD0DD : 
+                    - BACK : JAVA, JSP, Spring, My Batis, Oracle, Node.js, 
+                    - FRONT : EJS, HTML5 , CSS3, JavaScript
+                    - ETC : Kakao Map, Git
+
+                    2. \uB2F4\uB2F9 \uAD6C\uD604 \uAE30\uB2A5
+                    - Main \uD398\uC774\uC9C0 \uC804\uCCB4 \uAE30\uB2A5 
+                    (\uAC80\uC0C9, \uB9E4\uCE6D \uBBF8\uB9AC\uBCF4\uAE30, \uB0B4\uC8FC\uBCC0 \uC250\uC5B4\uD558\uC6B0\uC2A4 \uBBF8\uB9AC\uBCF4\uAE30)
+                    - \uB85C\uADF8\uC778 & \uB85C\uADF8\uC544\uC6C3
+                    - \uCE74\uCE74\uC624\uB9F5 API \uD074\uB7EC\uC2A4\uD130\uB7EC, \uC624\uBC84\uB808\uC774 \uAE30\uB2A5
+                    - \uD558\uC6B0\uC2A4\uBA54\uC774\uD2B8 \uC870\uD68C \uD654\uBA74 \uD398\uC774\uC9D5, \uAC80\uC0C9\uD544\uD130
+                    - Node.js \uC2E4\uC2DC\uAC04 \uCC44\uD305 \uC11C\uBC84 \uAD6C\uCD95
+                    (\uC2E4\uC2DC\uAC04 \uCC44\uD305, DB\uC5F0\uB3D9, \uCC44\uD305\uBC29 \uB098\uAC00\uAE30, \uC2E0\uACE0\uD558\uAE30 \uAE30\uB2A5)
+                    - \uD504\uB85C\uC81D\uD2B8 \uC804\uCCB4 UI\uC124\uACC4 & \uD37C\uBE14\uB9AC\uC2F1
+
+                    Github : https://github.com/doobyeol/SeoulMate
+                    \uAE30\uB2A5\uC2DC\uD604 : https://youtu.be/XGxMIWEITew
+                    \uD504\uB85C\uC81D\uD2B8 \uD6C4\uAE30 : https://blog.naver.com/doobyeol
+
+            `,link:"https://github.com/doobyeol/SeoulMate",imgPath:"/src/assets/img/project/seoulmate_01.png"}]),C=g("introduction"),o=D=>{C.value=D};function E(){let D=new Date;const s=D.getFullYear(),c=("0"+(D.getMonth()+1)).slice(-2),r=("0"+D.getDate()).slice(-2);return`${s}${c}${r}`}const l=async()=>{if(t.value.filter(c=>c.type=="blog").length>0)return;let D="https://proxy.cors.sh/https://v2.velog.io/graphql";const s=JSON.stringify({query:`
+                query Posts($cursor: ID, $username: String, $temp_only: Boolean, $limit: Int) {
+                    posts(cursor: $cursor, username: $username, temp_only: $temp_only, limit: $limit) {
+                        id
+                        title
+                        short_description
+                        thumbnail
+                        user {
+                            username
+                            profile {
+                                thumbnail
+                            }
+                        }
+                        url_slug
+                        released_at
+                        updated_at
+                        comments_count
+                        tags
+                        likes
+                    }
+                }
+            `,variables:{username:"doobyeol",limit:100}});try{const r=await(await fetch(D,{method:"POST",headers:{"Content-Type":"application/json",Origin:"application/json"},body:s})).json();console.log("########## postsData",r.data),a(r.data.posts)}catch(c){console.log(c),D="https://cors-anywhere.herokuapp.com/https://v2.velog.io/graphql";try{const b=await(await fetch(D,{method:"POST",headers:{"Content-Type":"application/json",Origin:"application/json"},body:s})).json();console.log("########## postsData",b.data),a(b.data.posts)}catch(r){console.log(r),t.value.push({date:E(),type:"blog",title:"[ \uBE14\uB85C\uADF8\uC5D0 \uB180\uB7EC\uC624\uC138\uC694! ]",text:"\uACBD\uD5D8\uC744 \uAE30\uB85D\uD569\uB2C8\uB2E4.",link:"https://velog.io/@doobyeol",imgPath:"/img/timeline/blog_info.PNG"})}}};function a(D){for(const s of D)t.value.push({date:s.released_at,type:"blog",title:`[ ${s.title} ]`,text:`${s.short_description.substr(0,25)}...`,link:"https://velog.io/@doobyeol/"+s.url_slug,imgPath:s.thumbnail})}return{timelineList:t,activeTab:C,moveTab:o,fixedArticle:u,getPostList:l}}),N=u=>(T("data-v-ee463837"),u=u(),$(),u),W={key:0,class:"timelineWrap"},w={class:"content"},G=N(()=>B("div",{class:"profile"},[B("div",{class:"img"}),B("p",{class:"name"},"\uB450\uBCC4")],-1)),U={class:"column"},R={class:"preLine"},H=["href"],X={key:0,class:"img"},q=["href"],K=["src"],Q=p({__name:"Timeline",props:{item:null},setup(u){const t=F(),{activeTab:C}=m(t);return(o,E)=>u.item.type==i(C)?(e(),A("div",W,[B("div",w,[G,B("div",U,[B("p",R,[B("b",null,n(u.item.title),1),v(" "+n(u.item.text)+" ",1),u.item.link?(e(),A("a",{key:0,target:"_blink",href:u.item.link},n(u.item.link),9,H)):d("",!0)]),u.item.imgPath?(e(),A("div",X,[B("a",{target:"_blink",href:u.item.link?u.item.link:"/"},[B("img",{src:u.item.imgPath,width:"100%",height:"100%"},null,8,K)],8,q)])):d("",!0)])])])):d("",!0)}});const z=_(Q,[["__scopeId","data-v-ee463837"]]),Y={class:"tabWrap"},Z={class:""},uu=["onClick"],Cu=p({__name:"Tab",setup(u){const t=F(),{activeTab:C}=m(t);k(()=>{l()});const o=g([{class:"active",text:"\uC18C\uAC1C",type:"introduction"},{class:"",text:"\uACBD\uB825",type:"career"},{class:"",text:"\uD504\uB85C\uC81D\uD2B8",type:"project"},{class:"",text:"\uBE14\uB85C\uADF8",type:"blog"}]);function E(a){t.moveTab(a.type),l()}function l(){o.value=o.value.filter(a=>(a.type==C.value?a.class="active":a.class="",a))}return(a,D)=>(e(),A("div",Y,[B("ul",Z,[(e(!0),A(y,null,S(o.value,s=>(e(),A("li",{key:s.type,onClick:c=>E(s)},[B("p",{class:J(s.class)},n(s.text),3)],8,uu))),128))])]))}});const Bu=_(Cu,[["__scopeId","data-v-ce4b6dca"]]),tu={class:"badge"},eu=["src"],ou=p({__name:"Badge",props:{items:null},setup(u){return(t,C)=>(e(),A("ul",tu,[(e(!0),A(y,null,S(u.items,o=>(e(),A("li",{key:o.value,style:f({backgroundColor:o.color})},[B("img",{src:o.logo,style:f({width:o.logo?"13px":"0px"})},null,12,eu),v(" "+n(o.value),1)],4))),128))]))}});const su=_(ou,[["__scopeId","data-v-963d6ffd"]]),Au={key:0,class:"timelineWrap"},Du={class:"content"},iu={class:"profile"},au={class:"column"},lu={class:"preLine"},nu=["href"],cu={key:0,class:"img"},ru=["href"],Eu=["src"],du=p({__name:"PixArticle",setup(u){const t=F(),{fixedArticle:C}=m(t),o=g([{value:"Java",color:"#5283a2"},{value:"Spring",color:"#62a458",logo:"https://simpleicons.org/icons/spring.svg"},{value:"Oracle",color:"#ae2525",logo:"https://simpleicons.org/icons/oracle.svg"},{value:"PostgreSQL",color:"#526e8e",logo:"https://simpleicons.org/icons/postgresql.svg"},{value:"Node.js",color:"#759c60",logo:"https://simpleicons.org/icons/nodedotjs.svg"},{value:"Vue.js",color:"#11b48a",logo:"https://simpleicons.org/icons/vuedotjs.svg"},{value:"JavaScript",color:"#f5b33c",logo:"https://simpleicons.org/icons/javascript.svg"},{value:"TypeScript",color:"#1c63b3",logo:"https://simpleicons.org/icons/typescript.svg"},{value:"SCSS",color:"#c9469d",logo:"https://simpleicons.org/icons/sass.svg"},{value:"Git",color:"#3e3e4a",logo:"https://simpleicons.org/icons/git.svg"},{value:"Docker",color:"#0090db",logo:"https://simpleicons.org/icons/docker.svg"}]);return(E,l)=>i(C)?(e(),A("div",Au,[B("div",Du,[B("div",iu,[B("b",null,n(i(C).title),1)]),B("div",au,[B("p",lu,[h(su,{items:o.value},null,8,["items"]),v(" "+n(i(C).text)+" ",1),i(C).link?(e(),A("a",{key:0,target:"_blink",href:i(C).link},n(i(C).link),9,nu)):d("",!0)]),i(C).imgPath?(e(),A("div",cu,[B("a",{target:"_blink",href:i(C).link?i(C).link:"/"},[B("img",{src:i(C).imgPath,width:"100%",height:"100%"},null,8,Eu)],8,ru)])):d("",!0)])])])):d("",!0)}});const pu=_(du,[["__scopeId","data-v-1d32397b"]]),gu={class:"contentWrap"},hu=p({__name:"Home",setup(u){const t=F(),{timelineList:C}=m(t);return k(()=>{t.getPostList()}),(o,E)=>(e(),A("div",gu,[h(O),h(Bu),h(pu),(e(!0),A(y,null,S(i(C),l=>(e(),j(z,{key:l.date,item:l},null,8,["item"]))),128))]))}});export{hu as default};
