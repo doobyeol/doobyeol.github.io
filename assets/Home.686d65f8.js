@@ -1,4 +1,4 @@
-import{d,o as t,c as D,a as x,_ as g,b as T,r as p,s as _,u as m,e as C,t as a,f as b,g as c,p as $,h as J,i as P,F as h,j as F,n as j,k as f,l as y,m as k}from"./index.16c7419e.js";const L={class:"profileWrap"},M=x('<div class="content" data-v-62195d5e><div class="cover" data-v-62195d5e></div><div class="profile" data-v-62195d5e><div class="pic" data-v-62195d5e></div></div><div class="button" data-v-62195d5e><a href="https://github.com/doobyeol" target="_blink" data-v-62195d5e></a></div></div><ul class="txt" data-v-62195d5e><li class="name" data-v-62195d5e>\uB450\uBCC4</li><li data-v-62195d5e>Web Developer</li><li class="flex gray" data-v-62195d5e><span class="pin" data-v-62195d5e></span> Seoul</li><li class="flex gray" data-v-62195d5e><a href="mailto:doobyeol@gmail.com" data-v-62195d5e><span class="mail" data-v-62195d5e></span> doobyeol@gmail.com </a></li><li class="flex" data-v-62195d5e><a href="https://velog.io/@doobyeol" target="_blink" class="velog icon" title="velog" data-v-62195d5e></a><a href="https://github.com/doobyeol" target="_blink" class="github icon" title="github" data-v-62195d5e></a></li></ul>',2),I=[M],V=d({__name:"Profile",setup(u){return(B,i)=>(t(),D("div",L,I))}});const O=g(V,[["__scopeId","data-v-62195d5e"]]),v=T("timelineStore",()=>{const u=p([{date:"20221124",type:"introduction",title:"Skills and Languages",text:"",link:"",imgPath:""}]),B=p([{date:"20221124",type:"career",title:`\u321C\uC5D0\uC2A4\uD53C\uC5D0\uC774\uCE58 (\uD074\uB77C\uC6B0\uB4DC\uD300 \uC0AC\uC6D0)
+import{d,o as t,c as D,a as x,_ as g,b as T,r as p,s as _,u as m,e as C,t as a,f as b,g as c,p as $,h as J,i as P,F as h,j as F,n as j,k as f,l as y,m as k}from"./index.bd80797a.js";const L={class:"profileWrap"},M=x('<div class="content" data-v-62195d5e><div class="cover" data-v-62195d5e></div><div class="profile" data-v-62195d5e><div class="pic" data-v-62195d5e></div></div><div class="button" data-v-62195d5e><a href="https://github.com/doobyeol" target="_blink" data-v-62195d5e></a></div></div><ul class="txt" data-v-62195d5e><li class="name" data-v-62195d5e>\uB450\uBCC4</li><li data-v-62195d5e>Web Developer</li><li class="flex gray" data-v-62195d5e><span class="pin" data-v-62195d5e></span> Seoul</li><li class="flex gray" data-v-62195d5e><a href="mailto:doobyeol@gmail.com" data-v-62195d5e><span class="mail" data-v-62195d5e></span> doobyeol@gmail.com </a></li><li class="flex" data-v-62195d5e><a href="https://velog.io/@doobyeol" target="_blink" class="velog icon" title="velog" data-v-62195d5e></a><a href="https://github.com/doobyeol" target="_blink" class="github icon" title="github" data-v-62195d5e></a></li></ul>',2),I=[M],V=d({__name:"Profile",setup(u){return(B,i)=>(t(),D("div",L,I))}});const O=g(V,[["__scopeId","data-v-62195d5e"]]),v=T("timelineStore",()=>{const u=p([{date:"20221124",type:"introduction",title:"Skills and Languages",text:"",link:"",imgPath:""}]),B=p([{date:"20221124",type:"career",title:`\u321C\uC5D0\uC2A4\uD53C\uC5D0\uC774\uCE58 (\uD074\uB77C\uC6B0\uB4DC\uD300 \uC0AC\uC6D0)
                     2021.07 - \uD604\uC7AC`,text:`
             1. GS \uCE7C\uD14D\uC2A4 \uC0C1\uAD8C\uBD84\uC11D WEB (2022.08 ~ )
             - \uAE30\uC220\uC2A4\uD0DD : Vue, javascript, Java, Spring Boot, postgreSQL
@@ -7,7 +7,6 @@ import{d,o as t,c as D,a as x,_ as g,b as T,r as p,s as _,u as m,e as C,t as a,f
             - \uAD00\uB9AC\uC790 \uD398\uC774\uC9C0 \uAC1C\uBC1C
             - Azure OAuth SSO \uAC1C\uBC1C
             - \uD310\uB9E4\uC2E4\uC801/\uC810\uB450\uAC00 \uD1B5\uACC4 \uCFFC\uB9AC \uC791\uC131
-            
 
             2. Kagos \uC790\uC0B0\uAD00\uB9AC \uC194\uB8E8\uC158 WEB ( 2022.01 ~ 2022.07 )
             - \uAE30\uC220\uC2A4\uD0DD : Vue, Javascript, Java, Spring Boot, postgreSQL
@@ -17,7 +16,6 @@ import{d,o as t,c as D,a as x,_ as g,b as T,r as p,s as _,u as m,e as C,t as a,f
             - Vue Slot\uC744 \uC0AC\uC6A9\uD55C \uACF5\uD1B5 \uB808\uC774\uC544\uC6C3 \uAC1C\uBC1C
             - \uACF5\uD1B5 Vue \uCEF4\uD3EC\uB10C\uD2B8 \uAC1C\uBC1C
             - Frontend \uACF5\uD1B5 API \uBAA8\uB4C8 \uAC1C\uBC1C
-            
 
             3. LG \uD558\uC774\uCF00\uC5B4 \uC0C1\uD669\uC2E4 \uC2DC\uC2A4\uD15C WEB (2021.08 ~ 2021.12)
             - \uAE30\uC220\uC2A4\uD0DD : JSP, jQuery, Java, Spring, postgreSQL
@@ -27,22 +25,18 @@ import{d,o as t,c as D,a as x,_ as g,b as T,r as p,s as _,u as m,e as C,t as a,f
             1. \uC548\uC804\uBCF4\uAC74\uACF5\uB2E8 \uC704\uAE30\uD0C8\uCD9C\uC548\uC804\uC810\uAC80 APP (2018.03 ~ 2019.03)
             - \uAE30\uC220\uC2A4\uD0DD : HTML, CSS, Javascript, JSP
             - UI&UX \uB514\uC790\uC778 & \uD37C\uBE14\uB9AC\uC2F1
-            
 
             2. \uC548\uC804\uBCF4\uAC74\uACF5\uB2E8 \uD604\uC7A5\uBC30\uC1A1\uC11C\uBE44\uC2A4 WEB (2019.03 ~ 2019.07)
             - \uAE30\uC220\uC2A4\uD0DD : HTML, CSS, Javascript, JSP
             - UI&UX \uB514\uC790\uC778 & \uD37C\uBE14\uB9AC\uC2F1
-            
 
             3. \uC0BC\uC131\uC804\uC790 \uC911\uC7A5\uBE44 APP / CMS WEB (2019.08 ~ 2019.12)
             - \uAE30\uC220\uC2A4\uD0DD : HTML, CSS, Javascript, JSP
             - UI&UX \uB514\uC790\uC778 & \uD37C\uBE14\uB9AC\uC2F1
-            
 
             4. \uC194\uD2B8\uC6CD\uC2A4 \uD504\uB85C\uC81D\uD2B8 \uB9E4\uB2C8\uC9C0\uBA3C\uD2B8 WEB (2019.10 ~ 2020.02)
             - \uAE30\uC220\uC2A4\uD0DD : HTML, CSS, Javascript, JSP
             - UI&UX \uB514\uC790\uC778 & \uD37C\uBE14\uB9AC\uC2F1
-            
 
             5. \uC548\uC804\uBCF4\uAC74\uACF5\uB2E8 \uC704\uAE30\uD0C8\uCD9C\uC548\uC804\uBCF4\uAC74 APP (2019.12 ~ 2020.02)
             - \uAE30\uC220\uC2A4\uD0DD : HTML, CSS, Javascript, JSP
@@ -163,17 +157,18 @@ import{d,o as t,c as D,a as x,_ as g,b as T,r as p,s as _,u as m,e as C,t as a,f
                     \uAE30\uB2A5\uC2DC\uD604 : https://youtu.be/XGxMIWEITew
                     \uD504\uB85C\uC81D\uD2B8 \uD6C4\uAE30 : https://blog.naver.com/doobyeol
 
-            `,link:"https://github.com/doobyeol/SeoulMate",imgPath:"/img/project/seoulmate_01.png"},{date:"20221124",type:"career",title:"\uD559\uB825",text:`2020.12 ~ 2021.05 \uBE44\uD2B8\uCEA0\uD504 \uD559\uC6D0
-                - \uC6F9 \uAC1C\uBC1C\uC790 \uC591\uC131 \uAD6D\uBE44 \uACFC\uC815 \uC218\uB8CC
+            `,link:"https://github.com/doobyeol/SeoulMate",imgPath:"/img/project/seoulmate_01.png"},{date:"20221124",type:"career",title:"\uD559\uB825",text:`
+                2020.12 ~ 2021.05 
+                \uBE44\uD2B8\uCEA0\uD504 - \uC6F9 \uAC1C\uBC1C\uC790 \uC591\uC131 \uAD6D\uBE44 \uACFC\uC815 \uC218\uB8CC
 
-                2018.04 ~ 2018.10 \uADF8\uB9B0\uCEF4\uD4E8\uD130\uC544\uD2B8 \uD559\uC6D0
-                - \uBC18\uC751\uD615 \uC6F9 \uD37C\uBE14\uB9AC\uC2F1 \uAD6D\uBE44 \uACFC\uC815 \uC218\uB8CC
+                2018.04 ~ 2018.10 
+                \uADF8\uB9B0\uCEF4\uD4E8\uD130\uC544\uD2B8\uD559\uC6D0 - \uBC18\uC751\uD615 \uC6F9 \uD37C\uBE14\uB9AC\uC2F1 \uAD6D\uBE44 \uACFC\uC815 \uC218\uB8CC
 
-                2014.03 ~ 2018.02 \uC6A9\uC778\uB300\uD559\uAD50
-                - \uBBF8\uB514\uC5B4\uB514\uC790\uC778\uACFC \uC878\uC5C5
+                2014.03 ~ 2018.02 
+                \uC6A9\uC778\uB300\uD559\uAD50 - \uBBF8\uB514\uC5B4\uB514\uC790\uC778\uACFC \uC878\uC5C5
 
-                2012.03 ~ 2014.02 \uC11C\uC6B8\uB514\uC790\uC778\uACE0\uB4F1\uD559\uAD50
-                - \uC601\uC0C1\uB514\uC790\uC778\uACFC \uC878\uC5C5
+                2012.03 ~ 2014.02 
+                \uC11C\uC6B8\uB514\uC790\uC778\uACE0\uB4F1\uD559\uAD50 - \uC601\uC0C1\uB514\uC790\uC778\uACFC \uC878\uC5C5
             `,link:"",imgPath:""}]),i=p("introduction"),e=s=>{i.value=s};function r(){let s=new Date;const A=s.getFullYear(),l=("0"+(s.getMonth()+1)).slice(-2),n=("0"+s.getDate()).slice(-2);return`${A}${l}${n}`}const E=async()=>{if(B.value.filter(l=>l.type=="blog").length>0)return;let s="https://proxy.cors.sh/https://v2.velog.io/graphql";const A=JSON.stringify({query:`
                 query Posts($cursor: ID, $username: String, $temp_only: Boolean, $limit: Int) {
                     posts(cursor: $cursor, username: $username, temp_only: $temp_only, limit: $limit) {
