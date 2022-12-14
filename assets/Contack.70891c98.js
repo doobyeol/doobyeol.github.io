@@ -1,1 +1,0 @@
-import{_ as e,o as c,c as o,b as t}from"./index.072bec00.js";const s={},n={class:"container"},_=t("p",null,"\u{1F6A7} \uC900\uBE44\uC911",-1),a=[_];function r(d,i){return c(),o("div",n,a)}const f=e(s,[["render",r]]);export{f as default};
